@@ -1,0 +1,8 @@
+
+---
+
+## 📄 `requirements.txt`
+
+```txt
+# Requirements for BigUdom Tech Store
+# Python standard library only (no extra packages required)
