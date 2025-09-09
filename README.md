@@ -27,13 +27,10 @@ The project demonstrates:
    git clone https://github.com/BIGUDOM/cart.git
    cd cart
 
-2. Install requitements
-   ```bash
-   pip install -r requirements.txt
-
-3. Run It
+2. Run It
    ```bash
    python cart.py
+
 
 
 
