@@ -24,7 +24,7 @@ The project demonstrates:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BIGUDOM/exam-simulator.git
+   git clone https://github.com/BIGUDOM/cart.git
    cd exam-simulator
 
 2. Install requitements
@@ -33,6 +33,7 @@ The project demonstrates:
 
 3. Run It
    ```bash
-   python exam.py
+   python cart.py
+
 
 
