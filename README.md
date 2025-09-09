@@ -24,9 +24,17 @@ The project demonstrates:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/bigudom-tech-store.git
+git clone https://github.com/BIGUDOM/cart.git
+
+```bash
 cd bigudom-tech-store
+
+Install Requirements
+```bash
 pip install -r requirements.txt
 
-python store.py
+Run It
+```bash
+python cart.py
+
 
