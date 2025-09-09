@@ -20,21 +20,19 @@ The project demonstrates:
 
 ---
 
-## 🛠️ Installation & Setup
-Clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/BIGUDOM/cart.git
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/BIGUDOM/exam-simulator.git
+   cd exam-simulator
 
-```bash
-cd bigudom-tech-store
+2. Install requitements
+   ```bash
+   pip install -r requirements.txt
 
-Install Requirements
-```bash
-pip install -r requirements.txt
-
-Run It
-```bash
-python cart.py
+3. Run It
+   ```bash
+   python exam.py
 
 
