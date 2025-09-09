@@ -25,7 +25,7 @@ The project demonstrates:
 1. Clone the repository:
    ```bash
    git clone https://github.com/BIGUDOM/cart.git
-   cd exam-simulator
+   cd cart
 
 2. Install requitements
    ```bash
@@ -34,6 +34,7 @@ The project demonstrates:
 3. Run It
    ```bash
    python cart.py
+
 
 
 
